@@ -1,0 +1,13 @@
+﻿User-agent: Googlebot
+ Disallow: /views/account/
+ Disallaw: /account/
+ Disallaw: /portassets/
+ Disallaw: /manage/
+ Disallaw: /shared/
+ Disallaw: /views/manage/
+ Disallaw: /views/shared/
+
+
+
+User-agent: *
+ Disallow: /
